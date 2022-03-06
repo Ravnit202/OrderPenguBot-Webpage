@@ -1,6 +1,6 @@
 ## Order Pengu Bot :penguin:
-A League of Legends discord bot that goes beyond simple statistics. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![PenguBot](icons/OrderPenguBot.png "Order Pengu Bot") 
+![PenguBot](icons/OrderPenguBot.png "Order Pengu Bot") A League of Legends discord bot that goes beyond simple statistics. 
+
 ## Features :scroll:
 
 ### Feature List :bookmark_tabs:
