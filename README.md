@@ -31,10 +31,10 @@ A League of Legends discord bot that goes beyond simple statistics. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And many more to come...**
 ### Usage :video_game:
 **lol**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![lol](./funtionality/lol.PNG "lol")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![lol](./funtionality/lol.PNG "lol")
 
 **live**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![live](./funtionality/live.PNG "live")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![live](./funtionality/live.PNG "live")
 
 **history**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![history](./funtionality/history.PNG "history")
@@ -49,7 +49,7 @@ A League of Legends discord bot that goes beyond simple statistics. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![draft](./funtionality/draft.PNG "draft")
 
 **rr**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![rr](./funtionality/rr.PNG "rr")
+&nbsp;&nbsp;&nbsp;&nbsp; ![rr](./funtionality/rr.PNG "rr")
 
 **info**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![info](./funtionality/info.PNG "info")
