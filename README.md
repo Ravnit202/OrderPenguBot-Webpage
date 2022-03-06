@@ -29,34 +29,34 @@ A League of Legends discord bot that goes beyond simple statistics.
 **And many more to come...**
 ### Usage :video_game:
 **lol**<br>
-&nbsp;&nbsp;&nbsp; ![lol](./funtionality/lol.PNG "lol")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![lol](./funtionality/lol.PNG "lol")
 
 **live**<br>
-&nbsp;&nbsp;&nbsp; ![live](./funtionality/live.PNG "live")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![live](./funtionality/live.PNG "live")
 
 **history**<br>
-&nbsp;&nbsp;&nbsp; ![history](./funtionality/history.PNG "history")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![history](./funtionality/history.PNG "history")
 
 **recentc**<br>
-&nbsp;&nbsp;&nbsp; ![recentc](./funtionality/recentc.PNG "recentc")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![recentc](./funtionality/recentc.PNG "recentc")
 
 **team**<br>
-&nbsp;&nbsp;&nbsp; ![team](./funtionality/team.PNG "team")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![team](./funtionality/team.PNG "team")
 
 **draft**<br>
-&nbsp;&nbsp;&nbsp; ![draft](./funtionality/draft.PNG "draft")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![draft](./funtionality/draft.PNG "draft")
 
 **rr**<br>
-&nbsp;&nbsp;&nbsp; ![rr](./funtionality/rr.PNG "rr")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![rr](./funtionality/rr.PNG "rr")
 
 **info**<br>
-&nbsp;&nbsp;&nbsp; ![info](./funtionality/info.PNG "info")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![info](./funtionality/info.PNG "info")
 
 **lore**<br>
-&nbsp;&nbsp;&nbsp; ![lore](./funtionality/lore.PNG "lore")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![lore](./funtionality/lore.PNG "lore")
 
 **leagueify**<br>
-&nbsp;&nbsp;&nbsp; ![leagueify](./funtionality/leagueify.PNG "leagueify")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![leagueify](./funtionality/leagueify.PNG "leagueify")
 ## Contact
 [Ravnit Lotay](https://github.com/Ravnit202)
 
