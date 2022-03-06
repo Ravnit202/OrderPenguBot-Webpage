@@ -1,4 +1,4 @@
-## Overview :crystal_ball:
+## Order Pengu Bot :penguin:
 A League of Legends discord bot that goes beyond simple statistics.
 ## Features :scroll:
 
