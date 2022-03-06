@@ -31,31 +31,31 @@ A League of Legends discord bot that goes beyond simple statistics.
 **lol**<br>
 ![lol](./funtionality/lol.PNG "lol")
 
-**live** <br>
+**live**<br>
 ![live](./funtionality/live.PNG "live")
 
-**history**
+**history**<br>
 ![history](./funtionality/history.PNG "history")
 
-**recentc**
+**recentc**<br>
 ![recentc](./funtionality/recentc.PNG "recentc")
 
-**team**
+**team**<br>
 ![team](./funtionality/team.PNG "team")
 
-**draft**
+**draft**<br>
 ![draft](./funtionality/draft.PNG "draft")
 
-**rr**
+**rr**<br>
 ![rr](./funtionality/rr.PNG "rr")
 
-**info**
+**info**<br>
 ![info](./funtionality/info.PNG "info")
 
-**lore**
+**lore**<br>
 ![lore](./funtionality/lore.PNG "lore")
 
-**leagueify** 
+**leagueify**<br>
 ![leagueify](./funtionality/leagueify.PNG "leagueify")
 ## Contact
 [Ravnit Lotay](https://github.com/Ravnit202)
