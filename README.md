@@ -60,6 +60,6 @@ A League of Legends discord bot that goes beyond simple statistics.
 
 **leagueify**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![leagueify](./funtionality/leagueify.PNG "leagueify")
-## Contact
+## Contributers
 [Ravnit Lotay](https://github.com/Ravnit202)
 
