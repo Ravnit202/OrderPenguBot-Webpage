@@ -1,5 +1,5 @@
 ## Order Pengu Bot :penguin:
-A League of Legends discord bot that goes beyond simple statistics.
+![PenguBot](./icons/OrderPenguBot.PNG "Order Pengu Bot")A League of Legends discord bot that goes beyond simple statistics.
 ## Features :scroll:
 
 ### Feature List :bookmark_tabs:
@@ -25,6 +25,7 @@ A League of Legends discord bot that goes beyond simple statistics.
 **lore**: View a champion's lore.
 
 **leagueify**: Recieve a mosiac created from league of legends champions and icons.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And many more to come...**
 ### Usage :video_game:
