@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## Overview :crystal_ball:
+A League of Legends discord bot that goes beyond simple statistics.
+## Features :bookmark_tabs:
 
-You can use the [editor on GitHub](https://github.com/Ravnit202/OrderPenguBot-Webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Feature List
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**lol**: View a player's ranked stats.
+![lol](./funtionality/lol.PNG "lol")
 
-### Markdown
+**live**: View stats about a player's live game.
+![live](./funtionality/live.PNG "live")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**history**: View a players ranked match history.
+![history](./funtionality/history.PNG "history")
 
-```markdown
-Syntax highlighted code block
+**recentc**: View the most recently played champions for a player.
+![recentc](./funtionality/recentc.PNG "recentc")
 
-# Header 1
-## Header 2
-### Header 3
+**team**: View stats about the players in a champ select lobby.
+![team](./funtionality/team.PNG "team")
 
-- Bulleted
-- List
+**draft**: Draft a team (1 champion per role).
+![draft](./funtionality/draft.PNG "draft")
 
-1. Numbered
-2. List
+**rr**: 'Reroll' a champion.
+![rr](./funtionality/rr.PNG "rr")
 
-**Bold** and _Italic_ and `Code` text
+**m**: View a player's champion masteries.
+![m](./funtionality/m.PNG "m")
 
-[Link](url) and ![Image](src)
-```
+**info**: View a champion's base stats.
+![info](./funtionality/info.PNG "info")
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**lore**: View a champion's lore.
+![lore](./funtionality/lore.PNG "lore")
 
-### Jekyll Themes
+**leagueify**: Recieve a mosiac created from league of legends champions and icons.
+![leagueify](./funtionality/leagueify.PNG "leagueify")
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ravnit202/OrderPenguBot-Webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***And many more to come...***
+### Usage
+**lol**: ![lol](./funtionality/lol.PNG "lol")
 
-### Support or Contact
+**live**: ![live](./funtionality/live.PNG "live")
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**history**: ![history](./funtionality/history.PNG "history")
+
+**recentc**: ![recentc](./funtionality/recentc.PNG "recentc")
+
+**team**: ![team](./funtionality/team.PNG "team")
+
+**draft**: ![draft](./funtionality/draft.PNG "draft")
+
+**rr**: ![rr](./funtionality/rr.PNG "rr")
+
+**info**: ![info](./funtionality/info.PNG "info")
+
+**lore**: ![lore](./funtionality/lore.PNG "lore")
+
+**leagueify**: ![leagueify](./funtionality/leagueify.PNG "leagueify")
+## Contact
+[Ravnit Lotay](https://github.com/Ravnit202)
+
