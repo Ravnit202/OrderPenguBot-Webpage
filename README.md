@@ -29,34 +29,34 @@ A League of Legends discord bot that goes beyond simple statistics.
 **And many more to come...**
 ### Usage :video_game:
 **lol**<br>
-![lol](./funtionality/lol.PNG "lol")
+&nbsp;&nbsp;&nbsp; ![lol](./funtionality/lol.PNG "lol")
 
 **live**<br>
-![live](./funtionality/live.PNG "live")
+&nbsp;&nbsp;&nbsp; ![live](./funtionality/live.PNG "live")
 
 **history**<br>
-![history](./funtionality/history.PNG "history")
+&nbsp;&nbsp;&nbsp; ![history](./funtionality/history.PNG "history")
 
 **recentc**<br>
-![recentc](./funtionality/recentc.PNG "recentc")
+&nbsp;&nbsp;&nbsp; ![recentc](./funtionality/recentc.PNG "recentc")
 
 **team**<br>
-![team](./funtionality/team.PNG "team")
+&nbsp;&nbsp;&nbsp; ![team](./funtionality/team.PNG "team")
 
 **draft**<br>
-![draft](./funtionality/draft.PNG "draft")
+&nbsp;&nbsp;&nbsp; ![draft](./funtionality/draft.PNG "draft")
 
 **rr**<br>
-![rr](./funtionality/rr.PNG "rr")
+&nbsp;&nbsp;&nbsp; ![rr](./funtionality/rr.PNG "rr")
 
 **info**<br>
-![info](./funtionality/info.PNG "info")
+&nbsp;&nbsp;&nbsp; ![info](./funtionality/info.PNG "info")
 
 **lore**<br>
-![lore](./funtionality/lore.PNG "lore")
+&nbsp;&nbsp;&nbsp; ![lore](./funtionality/lore.PNG "lore")
 
 **leagueify**<br>
-![leagueify](./funtionality/leagueify.PNG "leagueify")
+&nbsp;&nbsp;&nbsp; ![leagueify](./funtionality/leagueify.PNG "leagueify")
 ## Contact
 [Ravnit Lotay](https://github.com/Ravnit202)
 
