@@ -28,10 +28,10 @@ A League of Legends discord bot that goes beyond simple statistics.
 
 **And many more to come...**
 ### Usage :video_game:
-**lol**
+**lol**<br>
 ![lol](./funtionality/lol.PNG "lol")
 
-**live**: 
+**live** <br>
 ![live](./funtionality/live.PNG "live")
 
 **history**
