@@ -26,7 +26,7 @@ A League of Legends discord bot that goes beyond simple statistics.
 
 **leagueify**: Recieve a mosiac created from league of legends champions and icons.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And many more to come...**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**And many more to come...**
 ### Usage :video_game:
 **lol**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![lol](./funtionality/lol.PNG "lol")
